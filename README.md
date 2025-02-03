@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Programming Technique 1</h1>
+        <h1>Discrete Structure</h1>
         <p class="synopsis">
             <strong>Course Synopsis:</strong> This course introduces students to the principles and applications of discrete structure in the field
 of computer science. The topics that are covered in this course are set theory, proof techniques,
